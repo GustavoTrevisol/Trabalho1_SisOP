@@ -3,6 +3,22 @@ Este é um trabalho da disciplina de Sistemas Operacionais. O intuito dele é de
 No código de threads, a meneira de sincronizar foi com o mutex. Já no código com processos, foi utilizado o método de semaforo.
 
 
+## Hardware Overview
+
+      Model Name: MacBook Air
+      Model Identifier: Mac14,2
+      Model Number: MLXW3LL/A
+      Chip: Apple M2
+      Total Number of Cores: 8 (4 Performance and 4 Efficiency)
+      Memory: 8 GB
+      System Firmware Version: 13822.81.10
+      OS Loader Version: 13822.81.10
+      Serial Number (system): LN9RR60CVG
+      Hardware UUID: 16B427CA-C346-5EAE-9C82-6916470836A4
+      Provisioning UDID: 00008112-001425210108C01E
+      Activation Lock Status: Enabled
+
+
 ## Count com threads
 
 ### Threads sem sincronização
