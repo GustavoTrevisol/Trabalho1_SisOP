@@ -78,3 +78,8 @@ Valor final do contador: 1000000000
 8 processos c/ semaforo:
 Valor final do contador: 1000000000
 ./process_counter 8 2  340.16s user 2087.62s system 100% cpu 40:19.29 total
+
+<img width="822" height="453" alt="image" src="https://github.com/user-attachments/assets/9f057253-fb76-4237-b102-ac5142e8e47b" />
+
+<img width="825" height="440" alt="image" src="https://github.com/user-attachments/assets/4ea5de86-f993-48ef-9f58-65fb7ac8b635" />
+
