@@ -1,5 +1,7 @@
 # Trabalho1_SisOP
 **Eduardo Paz, Gustavo Trevisol e Helena Pacheco**
+
+
 Este é um trabalho da disciplina de Sistemas Operacionais. O intuito dele é de fazer comparações de desempenho entre diferentes métodos de codificação, processo e threads. Foram testados simultaneamente 2,4 e 8 threads e 2,4 e 8 processos, ambos com versoes utilizando sincronização e não usando sincronização.
 No código de threads, a meneira de sincronizar foi com o mutex. Já no código com processos, foi utilizado o método de semaforo.
 
